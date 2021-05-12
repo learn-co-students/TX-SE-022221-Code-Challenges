@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  min-height: 100vh;
+  min-width: 12em;
+  width: 28%;
+  border-right: solid black 1px;
+  background: #e5fdff;
+  padding: 1em;
+}
+
+.sidebar > button {
+  width: 100%;
+}
+
+.poems-container {
+  max-width: 30em;
+  margin: auto;
+}
+
+.poems-container > div {
+  border-bottom: solid 1px grey;
+  padding-bottom: 1em;
+  min-width: 20em;
+}
+
+.poems-container > div > button {
+  min-width: 4em;
+}
+
+form.new-poem-form {
+  border: solid black 1px;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+form.new-poem-form > input,
+form.new-poem-form > textarea {
+  font-size: 1em;
+  font-family: sans-serif;
+  margin-bottom: 0.5em;
+}
+
+input[type="submit"],
+button {
+  font-weight: bold;
+  font-size: 1em;
+  background: #04e8ff;
+  border: solid black 1px;
+  padding: 0.5em;
+  cursor: pointer;
+}

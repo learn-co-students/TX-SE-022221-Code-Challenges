@@ -1,0 +1,28 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "The Song About the Song",
+      "content": "This is the song about the show! And it's a show with a song about The Songs we're gonna sing We'll sing you the songs about The song about the show! Songs about the singing we'll do! Songs about the songs about The song about the show! Songs that we'll be singing to you! You'll hear us singing songs about The songs about the songs, The songs about the songs about the songs-- Songs about the songs about The songs about the songs, The songs about the songs about the show!",
+      "author": "Bryan Higgins"
+    },
+    {
+      "id": 2,
+      "title": "My Pickle",
+      "content": "...may my pickle stroll about hungryand fearless and thirsty and suppleand even if it's sunday may it be wrongfor whenever gherkins are green they are not young and may my sweet and sour do nothing usefullyand love yourself so more than pickle-juiceythere's never been quite such a fool who could failpulling all the sky over him with one bite.",
+      "author": "Jon Glass"
+    },      
+    {
+      "id": 3,
+      "title": "Ithaca",
+      "content": "When you set out on your journey to Ithaca, pray that the road is long, full of adventure, full of knowledge. The Brownings and the Mossbergs, the angry Colts -- do not fear them: You will never find such as these on your path, if your thoughts remain lofty, if a fine emotion touches your spirit and your body. The StrapGuns and the Uzis, the fierce Technines you will never encounter, if you do not carry them within your soul, if your soul does not set them up before you. Pray that the road is long.... ",
+      "author": "T Y Alevizos"
+    },    
+    {
+      "id": 4,
+      "title": "The Visitor",
+      "content": "A ferret visited my house with little tiny cymbals. I felt that I should pick him up but couldn't find my thimbles.He jumped into my dresser drawer (The one with rags and papers) I slammed it shut and taped it tight and gave it to the neighbors.The neighbors liked the furniture but did not like the ferret. They took it to a hardware store to trade it for a parrot.The parrot, now, it sings to me across the narrow alley. I'd like to take it far away, But it's too big to carry.If animals come in your house just make them go away. You can give them to your friends but still you'll have to pay.",
+      "author": "Alan R. Turner."
+    }
+  ]
+}
