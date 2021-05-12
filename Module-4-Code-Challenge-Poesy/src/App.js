@@ -66,7 +66,7 @@ class App extends React.Component {
       <div className="app">
         <div className="sidebar">
           <button onClick={this.clickHandler}>Show/hide new poem form</button>
-          {this.state.isActive !== false &&  <NewPoemForm createPoem={this.createPoem}/>}
+          {this.state.isActive !== false && <NewPoemForm createPoem={this.createPoem}/>}
         </div>
         <PoemsContainer poems={this.state.poems} deletePoem={this.deletePoem}/>
       </div>

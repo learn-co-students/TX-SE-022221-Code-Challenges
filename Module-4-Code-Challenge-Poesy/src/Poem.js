@@ -8,6 +8,7 @@ class Poem extends React.Component {
     if (e.target.innerText = 'Mark as read') {
       e.target.innerText = 'Mark as unread'
     }
+    
   }
 
   favoriteHandler = () => {
